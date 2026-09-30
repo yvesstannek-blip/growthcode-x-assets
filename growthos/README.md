@@ -1,6 +1,6 @@
 # GrowthOS (MVP in progress)
 
-Konzept: `../docs/GrowthOS.md`. Stack: Next.js, TypeScript, Tailwind, Zod, Vitest.
+Konzept: `docs/GrowthOS.md`. Stack: Next.js, TypeScript, Tailwind, Zod, Vitest.
 
 ## Lokal starten
 ```
